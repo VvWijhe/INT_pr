@@ -8,7 +8,7 @@
 #ifndef SCREEN_SCREEN_H_
 #define SCREEN_SCREEN_H_
 
-#include "../includes.h"
+#include "includes.h"
 
 
 // ********************************** FUNCTIONS FOR THE USART ***********************************
