@@ -1,7 +1,5 @@
 # INT_pr
 
-practicum for HAN Embedded Systems Engineering:
-
-find out where the point is when DMA is faster than normal copying.
+Assignment to find out at which point copying data from RAM to RAM is faster with DMA.
 
 
