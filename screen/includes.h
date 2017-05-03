@@ -14,7 +14,7 @@
 #define INCLUDES_H_
 
 //USART driver for the screen.
-#include <../STM32F0xx_StdPeriph_Lib_V1.5.0/Libraries/STM32F0xx_StdPeriph_Driver/inc/stm32f0xx_usart.h>
+#include "../STM32F0xx_StdPeriph_Lib_V1.5.0/Libraries/STM32F0xx_StdPeriph_Driver/inc/stm32f0xx_usart.h"
 
 // Normal includes
 #include <stdio.h>
