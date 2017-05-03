@@ -7,8 +7,6 @@ set(SOURCE_FILES
         main.c
         main.h
         screen/screen.c
-        screen/screen.h
-        DMA/stm32f10x_dma.c
-        DMA/stm32f10x_dma.h)
+        screen/screen.h)
 
 add_executable(INT_pr ${SOURCE_FILES})
