@@ -70,7 +70,7 @@
     !defined (STM32F070xB) && !defined (STM32F070x6) && !defined (STM32F030xC)
   /* #define STM32F030 */   
   /* #define STM32F031 */   
-  /* #define STM32F051 */   
+   #define STM32F051
   /* #define STM32F072 */
   /* #define STM32F070xB */   
   /* #define STM32F042 */
